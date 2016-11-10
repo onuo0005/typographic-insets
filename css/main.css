@@ -106,7 +106,6 @@ figure {
   margin: .4em .7em ;
   width: 300px;
   padding: .2em;
-  border-top: 3px solid #333;
   border-bottom: 3px solid #333;
   margin-right: -10em;
 }
@@ -116,7 +115,7 @@ figure img {
   width: 300px;
   padding: .4em .2em;
   margin-top: .3em;
-  border-top: 3ps solid #333;
+  border-top: 3px solid #333;
 }
 
 blockquote {
